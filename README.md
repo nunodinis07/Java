@@ -78,3 +78,6 @@ public class Main {
         System.out.println("------------------------------");
     }
 }
+git add .
+git commit -m "Primeiro commit"
+
